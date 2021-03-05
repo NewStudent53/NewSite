@@ -1,0 +1,56 @@
+body {
+  background-image: image(Minimalist-Crumpled-Paper-Simple-Background-Image.jpg);
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",Helvetica,Arial,sans-serif;
+
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 0;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h2{
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h3{
+  font-family: 'DotGothic16', sans-serif;
+}
+
+.top-container {
+  position:relative;
+  background-color: #0CB7F2;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+
+.gimage{
+  background-color: #0CB7F2;
+  width: 250px;
+  height: 250px;
+}
+
+.bottom-container{
+  background-image: url(https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif); background-repeat: repeat;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 40px;
+}
+
+.top-cloud {
+  top: 50px;;
+  position: absolute;
+  right: 40px;
+}
+
+.pro{
+  text-decoration: underline;
+}
